@@ -502,62 +502,62 @@
         {
             "RateType": "Forward",
             "Zone": "a",
-            "First_0.5_KG": 29.5,
-            "Every_Additional_0.5_KG": 23.6
+            "First": 29.5,
+            "Every_Additional": 23.6
            },
            {
             "RateType": "Forward",
             "Zone": "b",
-            "First_0.5_KG": 33,
-            "Every_Additional_0.5_KG": 28.3
+            "First": 33,
+            "Every_Additional": 28.3
            },
            {
             "RateType": "Forward",
             "Zone": "c",
-            "First_0.5_KG": 40.1,
-            "Every_Additional_0.5_KG": 38.9
+            "First": 40.1,
+            "Every_Additional": 38.9
            },
            {
             "RateType": "Forward",
             "Zone": "d",
-            "First_0.5_KG": 45.4,
-            "Every_Additional_0.5_KG": 44.8
+            "First": 45.4,
+            "Every_Additional": 44.8
            },
            {
             "RateType": "Forward",
             "Zone": "e",
-            "First_0.5_KG": 56.6,
-            "Every_Additional_0.5_KG": 55.5
+            "First": 56.6,
+            "Every_Additional": 55.5
            },
            {
             "RateType": "Forward & RTO",
             "Zone": "a",
-            "First_0.5_KG": 43.1,
-            "Every_Additional_0.5_KG": 47.2
+            "First": 43.1,
+            "Every_Additional": 47.2
            },
            {
             "RateType": "Forward & RTO",
             "Zone": "b",
-            "First_0.5_KG": 53.5,
-            "Every_Additional_0.5_KG": 56.6
+            "First": 53.5,
+            "Every_Additional": 56.6
            },
            {
             "RateType": "Forward & RTO",
             "Zone": "c",
-            "First_0.5_KG": 72,
-            "Every_Additional_0.5_KG": 77.8
+            "First": 72,
+            "Every_Additional": 77.8
            },
            {
             "RateType": "Forward & RTO",
             "Zone": "d",
-            "First_0.5_KG": 86.69999999999999,
-            "Every_Additional_0.5_KG": 89.6
+            "First": 86.69999999999999,
+            "Every_Additional": 89.6
            },
            {
             "RateType": "Forward & RTO",
             "Zone": "e",
-            "First_0.5_KG": 107.30000000000001,
-            "Every_Additional_0.5_KG": 111
+            "First": 107.30000000000001,
+            "Every_Additional": 111
            }
     ]
 }
